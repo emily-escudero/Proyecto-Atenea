@@ -1,12 +1,12 @@
 # Proyecto-Atenea
 
-Integrantes: 
+**Integrantes:**
 
-Jacobo Salazar Gallego - Ingeniería Industrial.
+**_Jacobo Salazar Gallego - Ingeniería Industrial._**
 
-Sebastian Urrego Graciano - Ingeniería Industrial.
+**_Sebastian Urrego Graciano - Ingeniería Industrial._**
 
-Emily Escudero Galeano - Ingeniería Industrial. 
+**_Emily Escudero Galeano - Ingeniería Industrial._**
 
 ![image](https://github.com/user-attachments/assets/24a552b5-ac77-4755-a5ea-eea270ff34e3)
 
